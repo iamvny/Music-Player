@@ -28,6 +28,21 @@ The project distinguishes itself by standing independently from mainstream music
 
 ## Access the Application:
 
-To explore and experience the project firsthand, users can visit the project at the following link: Music Player( https://iamvny.github.io/Music-Player/ ). The link provides direct access to the project, enabling users to navigate through its functionalities and enjoy a customized music playback experience.
+To explore and experience the project firsthand, users can visit the project at the following link: [Music Player](https://iamvny.github.io/Music-Player/). The link provides direct access to the project, enabling users to navigate through its functionalities and enjoy a customized music playback experience.
 
 ### In summary, the project is not just a music player but a comprehensive web development project showcasing my skills in HTML, CSS, and JavaScript. It prioritizes user experience with responsive design, interactive controls, and audio streaming, offering an independent and enjoyable music listening experience. 🎵💻🔀🔊
+
+# Screenshots
+
+
+![Screenshot 2024-02-06 131326](https://github.com/iamvny/Music-Player/assets/146625204/536d7592-2f2e-4486-8abe-785fdca21785)
+
+![Screenshot 2024-02-06 131351](https://github.com/iamvny/Music-Player/assets/146625204/456ab60c-4055-4a5a-bbd0-fda1f1582929)
+
+
+
+
+
+
+
+
